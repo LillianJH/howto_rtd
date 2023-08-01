@@ -10,7 +10,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   Style Guide
-   Quick Start Guide to reStructuredText
-   How to Edit and Maintain Documents
-   Getting Help
+   style
+   quick_rst
+   maintain
+   help
