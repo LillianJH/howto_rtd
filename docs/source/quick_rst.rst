@@ -17,7 +17,7 @@ Headings
 
 The document title and headings are created using non-alphanumeric 7-bit ASCII characters (i.e. "= - ` : ' " ~ ^ _ * + # < >"). Underline each heading (under- and over-line the title) with the chosen character, ensuring the line is at least as long as the heading, or title. Below is an example of the title and headings inputs used in this document.
 
-.. code-block:: rst
+::
  
     ======================================
     Getting Started with reStructuredText
